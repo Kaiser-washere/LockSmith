@@ -79,6 +79,6 @@ The CLI will:
 
 <h2>📜 License</h2>
 <p>
-Prototype release — for educational and research purposes only.
+MIT release — for educational and research purposes only.
 Do not use for unauthorized access or illegal activities.
 </p>
