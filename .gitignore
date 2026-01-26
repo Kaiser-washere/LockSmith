@@ -1,1 +1,24 @@
-/target
+# Rust build artifacts
+/target/
+
+# Go build artifacts
+/crack_go
+*.exe
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+/logs/
+*.log
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
