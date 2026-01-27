@@ -82,3 +82,4 @@ The CLI will:
 MIT release — for educational and research purposes only.
 Do not use for unauthorized access or illegal activities.
 </p>
+<h1>educational use only</h1>
