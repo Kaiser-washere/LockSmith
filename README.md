@@ -31,8 +31,9 @@ go build crack.go
 
 <h2> Usage</h2>
 
-bash```
-python core.py```
+```bash
+python core.py
+```
 <p>The CLI will:</p>
 <ol>
 <li>Show banner and supported formats.</li>
