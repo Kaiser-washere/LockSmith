@@ -25,7 +25,7 @@ LockSmith unifies multiple backends under a single CLI with banner-styled output
 
 <hr/>
 
-<h2>✨ Features</h2>
+<h2> Features</h2>
 <ul>
   <li><b>Unified CLI:</b> <code>core.py</code> selects backend automatically (Rust for large wordlists, Go for small).</li>
   <li><b>Archive formats:</b> ZIP, RAR, TAR.GZ, 7Z, BZ2, GZ, LZMA.</li>
@@ -36,7 +36,7 @@ LockSmith unifies multiple backends under a single CLI with banner-styled output
 
 <hr/>
 
-<h2>📦 Installation</h2>
+<h2> Installation</h2>
 
 ```bash
 git clone https://github.com/yourname/LockSmith.git
@@ -50,7 +50,7 @@ go build crack.go
 ```
 <hr/>
 
-<h2>🚀 Usage</h2>
+<h2> Usage</h2>
 
 ```
 python core.py
