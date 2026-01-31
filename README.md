@@ -32,7 +32,7 @@ go build crack.go
 <h2> Usage</h2>
 
 ```bash
-python core.py
+python3 core.py
 ```
 <p>The CLI will:</p>
 <ol>
