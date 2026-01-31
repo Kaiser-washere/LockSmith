@@ -12,7 +12,6 @@ providing modular design, logging, and distinctive banner-styled output.
 - **Unified CLI:** Automatically selects backend (Rust for large wordlists, Go for small).  
 - **Archive formats:** Supports ZIP, RAR, TAR.GZ, 7Z, BZ2, GZ, LZMA.  
 - **Logging:** Timestamped logs stored under `logs/`.  
-- **Colored output:** ANSI colors + ASCII banner for identity.  
 - **Modular design:** Easily extendable with new backends or formats.  
 
 ---
