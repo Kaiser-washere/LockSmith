@@ -1,8 +1,7 @@
 <h1 align="center">🔑 LockSmith</h1>
 
 <p align="center">
-LockSmith is a prototype archive password recovery toolkit built with Rust, Go, and Python orchestration.  
-It unifies multiple backends under a single CLI with banner-styled output and logging.  
+LockSmith is a prototype archive password recovery toolkit built with Rust, Go, and Python orchestration. 
 </p>
 
 
@@ -11,7 +10,6 @@ It unifies multiple backends under a single CLI with banner-styled output and lo
   <li><b>Unified CLI:</b> <code>core.py</code> automatically selects backend (Rust for large wordlists, Go for small).</li>
   <li><b>Archive formats:</b> Supports ZIP, RAR, TAR.GZ, 7Z, BZ2, GZ, LZMA.</li>
   <li><b>Logging:</b> Each run saved under <code>logs/</code> with timestamped files.</li>
-  <li><b>Colored output:</b> ANSI colors + ASCII banner for distinctive CLI identity.</li>
   <li><b>Modular design:</b> Easily extendable with new backends or formats.</li>
 </ul>
 
